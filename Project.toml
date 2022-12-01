@@ -3,6 +3,10 @@ uuid = "af0efd74-06d3-4bfe-926c-152a12e77394"
 authors = ["meggart <fabiangans@gmx.de> and contributors"]
 version = "0.1.0"
 
+[deps]
+LMDB = "11f193de-5e89-5f17-923a-7d207d56daf9"
+Zarr = "0a941bbe-ad1d-11e8-39d9-ab76183a1d99"
+
 [compat]
 julia = "1"
 
